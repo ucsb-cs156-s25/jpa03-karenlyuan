@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-karenlyuan
 
 Running at: https://jpa03-karenlyuan.dokku-14.cs.ucsb.edu/
 
